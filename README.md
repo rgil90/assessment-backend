@@ -1,5 +1,7 @@
 # Blue Bite Assessment
 
+# FOR SUBMISSION DOCUMENTATION, PLEASE REFER TO THE SUBMISSION_DOCUMENTATION.md
+
 ## Introduction
 
 This repo includes a stub Django project. We would like you to extend this project by adding three
