@@ -1,0 +1,219 @@
+{
+    "batch_id": "ac15e22e62304a8c966bf5aab9d6f368",
+    "objects": [
+        {
+            "object_id": "c64affd81f804c439f4b9744697aeef6",
+            "data": [
+                {
+                    "key": "color",
+                    "value": "gold"
+                },
+                {
+                    "key": "country",
+                    "value": "ZW"
+                },
+                {
+                    "key": "demo",
+                    "value": false
+                }
+            ]
+        },
+        {
+            "object_id": "5480f162f9e74f2ca1acb468f7e89b0e",
+            "data": [
+                {
+                    "key": "type",
+                    "value": "keyfob"
+                },
+                {
+                    "key": "country",
+                    "value": "DE"
+                },
+                {
+                    "key": "demo",
+                    "value": true
+                },
+                {
+                    "key": "cost",
+                    "value": null
+                }
+            ]
+        },
+        {
+            "object_id": "48011705d5074addaecaaff237627564",
+            "data": [
+                {
+                    "key": "type",
+                    "value": "jersey"
+                },
+                {
+                    "key": "color",
+                    "value": "black"
+                },
+                {
+                    "key": "size",
+                    "value": "S"
+                },
+                {
+                    "key": "demo",
+                    "value": false
+                }
+            ]
+        },
+        {
+            "object_id": "95d56ca903324809820a11c55f3826ee",
+            "data": [
+                {
+                    "key": "color",
+                    "value": "black"
+                },
+                {
+                    "key": "size",
+                    "value": "L"
+                },
+                {
+                    "key": "country",
+                    "value": "MX"
+                },
+                {
+                    "key": "demo",
+                    "value": true
+                }
+            ]
+        },
+        {
+            "object_id": "3e782c168bfc4efeaf7e7baaecc9a78a",
+            "data": [
+                {
+                    "key": "size",
+                    "value": "S"
+                },
+                {
+                    "key": "country",
+                    "value": "MA"
+                }
+            ]
+        },
+        {
+            "object_id": "0d9cb4228dfb40feba50547ebf6dfd48",
+            "data": [
+                {
+                    "key": "country",
+                    "value": "ZW"
+                }
+            ]
+        },
+        {
+            "object_id": "000f0b7cb1864df681b134be00fab6dd",
+            "data": [
+                {
+                    "key": "country",
+                    "value": "IT"
+                }
+            ]
+        },
+        {
+            "object_id": "5e46365dffe94a07929a5a53544671d6",
+            "data": [
+                {
+                    "key": "color",
+                    "value": "white"
+                },
+                {
+                    "key": "country",
+                    "value": "FR"
+                }
+            ]
+        },
+        {
+            "object_id": "7c6fdf6411474c0b83e8f7d2e4da36e2",
+            "data": [
+                {
+                    "key": "type",
+                    "value": "bag"
+                },
+                {
+                    "key": "demo",
+                    "value": true
+                }
+            ]
+        },
+        {
+            "object_id": "f20e286156fa464cb3116fa70eae55b7",
+            "data": [
+                {
+                    "key": "type",
+                    "value": "shoe"
+                }
+            ]
+        },
+        {
+            "object_id": "7094f6b9e99745f9ab91767b89d80c32",
+            "data": [
+                {
+                    "key": "type",
+                    "value": "car"
+                },
+                {
+                    "key": "color",
+                    "value": "white"
+                },
+                {
+                    "key": "country",
+                    "value": "UK"
+                }
+            ]
+        },
+        {
+            "object_id": "8529cd7e6448484dabdc6431d5b184bc",
+            "data": [
+                {
+                    "key": "size",
+                    "value": "10"
+                },
+                {
+                    "key": "demo",
+                    "value": true
+                }
+            ]
+        },
+        {
+            "object_id": "7ae4b72cad364e47ae4a378af1142275",
+            "data": [
+                {
+                    "key": "size",
+                    "value": "L"
+                },
+                {
+                    "key": "country",
+                    "value": "DE"
+                },
+                {
+                    "key": "demo",
+                    "value": true
+                },
+                {
+                    "key": "cost",
+                    "value": 69
+                }
+            ]
+        },
+        {
+            "object_id": "4155c3f74f30460da672fc27f9119410",
+            "data": [
+                {
+                    "key": "type",
+                    "value": "shoe"
+                },
+                {
+                    "key": "size",
+                    "value": "M"
+                },
+                {
+                    "key": "cost",
+                    "value": 4.20
+                }
+            ]
+        }
+    ]
+}
